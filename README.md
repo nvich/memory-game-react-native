@@ -1,7 +1,12 @@
 # Memory Game React Native
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-group/memory-game-react-native.svg?style=flat-square)](https://github.com/descco-group/memory-game-react-native/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-nekhemievich/memory-game-react-native.svg)](https://github.com/org-nekhemievich/memory-game-react-native/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-nekhemievich/memory-game-react-native.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-nekhemievich/memory-game-react-native.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-nekhemievich/memory-game-react-native.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-nekhemievich/memory-game-react-native.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-nekhemievich/memory-game-react-native/total.svg)
 
 ## Install
 
@@ -25,7 +30,7 @@ yarn test
 
 ## Log
 
-Check [Releases](https://github.com/descco-group/memory-game-react-native/releases) for detailed changelog.
+Check [Releases](https://github.com/org-nekhemievich/memory-game-react-native/releases) for detailed changelog.
 
 ## License
 
